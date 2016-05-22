@@ -1,7 +1,7 @@
 function reverse(str) {
-  answer = str.split("").reverse().join("")
-  return answer
+  answer = str.split("").reverse().join("");
+  return answer;
 }
 
-reverse("butts")
+reverse("butts");
 //I made it. Yeah
