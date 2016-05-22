@@ -1,7 +1,10 @@
 function reverse(str) {
-  answer = str.split("").reverse().join("")
-  return answer
-}
+  answer = str.split("").reverse()
+  answer(function(letter)
+  	answer.toUpperCase()
+  return answer.join("")
+});
 
 reverse("butts")
-//I made it. Yeah
+//I don't remember what you typed earlier. 
+// I'm just trying to send you a pull request.
