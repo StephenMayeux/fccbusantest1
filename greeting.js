@@ -1,5 +1,5 @@
 function reverse(str) {
-  answer = str.split("").reverse().join("")
+  answer = str.split("").reverse().join("");
   return answer;
 }
 
