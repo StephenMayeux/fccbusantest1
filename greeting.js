@@ -5,3 +5,5 @@ function reverse(str) {
 
 reverse("butts")
 //I made it. Yeah
+answer = ("hello")
+"getting better"
