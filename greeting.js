@@ -4,3 +4,9 @@ function reverse(str) {
 }
 
 reverse("butts")
+
+function length(str){
+	answer = str.length
+	return answer
+}
+length("supercalifragilisticexpialidocious")
