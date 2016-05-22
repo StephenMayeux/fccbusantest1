@@ -3,4 +3,5 @@ function reverse(str) {
   return answer
 }
 
-reverse("butts")
+// be proud of your butt!
+reverse("BUTTS")
